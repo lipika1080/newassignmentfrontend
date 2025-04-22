@@ -1,5 +1,5 @@
 // src/App.tsx
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import {
   Box, Heading, Text, Button,
   Input, FormControl, FormLabel,
